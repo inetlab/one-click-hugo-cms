@@ -1,6 +1,6 @@
 ---
 title: MMF 83
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: НГУ
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
