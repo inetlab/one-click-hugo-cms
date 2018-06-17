@@ -1,6 +1,6 @@
 ---
 title: MMF 83
-subtitle: НГУ
+subtitle: НГУ!
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
